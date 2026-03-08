@@ -29,7 +29,7 @@
     </ul>
 
     <h3>Helpdesk</h3>
-    <h3><a href="#" class="dashboard">Dashboard</a></h3>
+    <h3><a href="#" class="PESQUISA">Dashboard</a></h3>
   </nav>
 
 <main>
